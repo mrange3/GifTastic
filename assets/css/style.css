@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/Sports.png");
+}
+
+.gif-box {
+    /* border-style: solid; */
+    text-align: center;
+    /* background-color: grey; */
+    width: auto;
+}
+p {
+    /* border-style: solid; */
+    /* background-color: white; */
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.gif-button {
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.button-area {
+    border-style: solid;
+    background-color: lightblue;
+}
+
+.gif {
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 10px; 
+}
